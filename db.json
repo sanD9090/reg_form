@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "firstname": "SANDEEP",
+      "lastname": "PRADHAN",
+      "email": "sandeep.pradhan99@gmail.com",
+      "gender": "male",
+      "country": "Hungary",
+      "password": "sasasas",
+      "dob": "2022-05-24T18:30:00.000Z",
+      "file": "",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
